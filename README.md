@@ -1,4 +1,4 @@
 # web-bucin
 
 
-* Example? <a href="//bucin.clph.me">Click Here</a>
+* Contoh? <a href="https://jauhariq.github.io/web-bucin.github.io/">Click Here</a>
